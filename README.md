@@ -42,8 +42,8 @@ This project bridges traditional Data Science with Geospatial Information System
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/tamalahmed/Interactive-Climate-Anomaly-Explorer.git
-cd Interactive-Climate-Anomaly-Explorer
+git clone https://github.com/tmlahmed/climate-anomaly-explorer.git
+cd climate-anomaly-explorer
 ```
 
 **2. Create a virtual environment and install dependencies**
