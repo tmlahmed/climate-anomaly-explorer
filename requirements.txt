@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+xarray>=2024.1.0
+dask>=2024.1.0
+netCDF4>=1.6.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+geopandas>=0.14.0
+shapely>=2.0.0
